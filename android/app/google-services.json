@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717765582115",
+    "project_id": "lo-rent-app",
+    "storage_bucket": "lo-rent-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717765582115:android:14a50abb31d7efb31cc096",
+        "android_client_info": {
+          "package_name": "com.example.rent_lo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717765582115-dlbdmtlif1696bl5e7ir0l6lr56tmnk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_lo_app",
+            "certificate_hash": "1e6e9f5369c8c3110526215a2656e8e7b7396ead"
+          }
+        },
+        {
+          "client_id": "717765582115-hhibhl4j4o6rne6658ftj8cijiljq2tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_lo_app",
+            "certificate_hash": "b8fed4c310dc22f68be8926b32a0beee4d7cb68a"
+          }
+        },
+        {
+          "client_id": "717765582115-0b2i2sb7fq6c96luctgh4n1s3gc7as5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3E2j4qF5pvxBG11wvNt-osGuyVXvTJck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717765582115-0b2i2sb7fq6c96luctgh4n1s3gc7as5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
